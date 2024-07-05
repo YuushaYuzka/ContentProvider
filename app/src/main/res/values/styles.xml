@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AppTheme.AppBarOverlayTest -->
+    <style name="AppTheme.AppBarOverlayTest" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your theme attributes -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+    </style>
+
+    <!-- AppTheme.PopupOverlayTest -->
+    <style name="AppTheme.PopupOverlayTest" parent="ThemeOverlay.MaterialComponents.Light">
+        <!-- Customize your popup overlay theme attributes -->
+        <item name="android:colorBackground">@color/popupBackgroundColor</item>
+        <item name="android:textColorPrimary">@color/popupTextColor</item>
+        <item name="android:textColorSecondary">@color/popupSecondaryTextColor</item>
+    </style>
+</resources>
